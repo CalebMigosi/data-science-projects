@@ -1,3 +1,6 @@
 # Virtual Env
 venv
 
+# Ignore idea
+.idea
+
